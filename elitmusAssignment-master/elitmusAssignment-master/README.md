@@ -1,6 +1,6 @@
 # elitmusAssignment
 
-## My Assignment for eLitmus Project
+## Assignment 
 It is an interacting puzzle game that will analyze the visualization , imagination and problem solving ability of the users. 
 There are adequate clues provided , which will healp out users to find the answers.
 
